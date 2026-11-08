@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rodeos"
+version = "1.0.0"
+description = "Preclinical rodent research middleware"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "sqlalchemy"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

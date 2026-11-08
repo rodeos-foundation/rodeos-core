@@ -1,0 +1,9 @@
+# Python / Environment
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Local Database & Test Data
+rodeos.db
+sample_dlc_output.csv
