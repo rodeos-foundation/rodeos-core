@@ -1,0 +1,89 @@
+alembic==1.20.1
+annotated-doc==0.0.5
+annotated-types==0.8.0
+anyio==4.16.0
+asgiref==3.13.0
+ast_serialize==0.13.1
+cached-property @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_cached_property_1787678456/work
+certifi==2026.10.23
+cfgv==3.5.0
+click==8.5.1
+colorama==0.4.6
+Deprecated @ file:///home/conda/feedstock_root/build_artifacts/deprecated_1768934076236/work
+distlib==0.4.4
+donfig @ file:///home/conda/feedstock_root/build_artifacts/donfig_1734368700593/work
+fastapi==0.162.2
+filelock==4.2.9
+google-crc32c @ file:///D:/bld/bld/rattler-build_google-crc32c_1793794006/work
+h11==0.16.0
+h5py @ file:///D:/bld/h5py_1790855721599/work
+httpcore==1.0.9
+httpcore2==2.16.0
+httptools==0.9.0
+httpx==0.28.1
+httpx2==2.16.0
+hypothesis==6.170.15
+identify==2.6.20
+idna==3.20
+iniconfig==2.3.1
+librt==0.16.0
+Mako==1.4.3
+markdown-it-py==4.2.0
+MarkupSafe==3.0.4
+mdurl==0.1.2
+msgpack @ file:///D:/bld/bld/rattler-build_msgpack-python_1793105664/work
+mypy==2.4.1
+mypy_extensions==1.2.0
+nats-py==2.16.0
+nodeenv==1.12.0
+numcodecs @ file:///D:/bld/numcodecs_1792528369175/work
+numpy @ file:///D:/bld/bld/rattler-build_numpy_1779169235/work/dist/numpy-2.4.6-cp311-cp311-win_amd64.whl#sha256=1f5fa3c853dd01b13cacc0fd3cfdc827bb2f4cf73638f3949fcee463a6dc8304
+ollama==0.6.3
+opentelemetry-api==1.45.2
+opentelemetry-instrumentation==0.66b2
+opentelemetry-instrumentation-asgi==0.66b2
+opentelemetry-instrumentation-fastapi==0.66b2
+opentelemetry-sdk==1.45.2
+opentelemetry-semantic-conventions==0.66b2
+opentelemetry-util-http==0.66b2
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1785888127/work
+pandas @ file:///D:/bld/bld/rattler-build_pandas_1793811651/work
+pathspec==1.1.1
+platformdirs==4.14.5
+pluggy==1.7.0
+polars @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_polars_1793016606/work/polars-python
+polars-runtime-32 @ file:///D:/bld/bld/rattler-build_polars-runtime-32_1793016425/work/polars-runtime-32
+pre_commit==4.7.0
+psycopg==3.3.8
+psycopg-binary==3.3.8
+pyarrow @ file:///D:/bld/apache-arrow_1793867883925/work/python
+pydantic==2.14.3
+pydantic-settings==2.16.2
+pydantic_core==2.50.4
+Pygments==2.21.0
+pytest==9.2.0
+pytest-asyncio==1.4.1.post1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_h5ded981_1793535232/work
+python-discovery==1.9.5
+python-dotenv==1.2.4
+PyYAML @ file:///D:/bld/bld/rattler-build_pyyaml_1793655094/work
+rich==15.0.0
+-e git+https://github.com/rodeos-foundation/rodeos-core.git@c4bacddbb720cfb315395cae83909cf01241dd5f#egg=rodeos
+ruff==0.17.4
+scipy @ file:///D:/bld/scipy-split_1779874050212/work/dist/scipy-1.17.1-cp311-cp311-win_amd64.whl#sha256=b7303dbff91581447e6473882e935d15f4f6d8c7afaae2f47a2d49e9c3940ea1
+shellingham==1.5.4
+sortedcontainers==2.4.0
+SQLAlchemy==2.1.8
+starlette==1.10.0
+structlog==26.1.0
+truststore==0.10.5
+typer==0.28.0
+typing-inspection==0.4.5
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1783002732/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-tzdata_h5ded981_1793205938/work
+uvicorn==0.54.0
+virtualenv==21.15.6
+watchfiles==1.3.0
+websockets==17.4
+wrapt @ file:///D:/bld/bld/rattler-build_wrapt_1793358798/work
+zarr @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_zarr_1775744500/work
