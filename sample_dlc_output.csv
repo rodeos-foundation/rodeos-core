@@ -1,0 +1,4 @@
+bodyparts,snout,snout,snout,tailbase,tailbase,tailbase
+coords,x,y,likelihood,x,y,likelihood
+0,105.2,204.1,0.99,50.1,102.3,0.95
+1,106.5,205.0,0.98,51.0,103.1,0.96

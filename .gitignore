@@ -6,4 +6,7 @@ venv/
 
 # Local Database & Test Data
 rodeos.db
-sample_dlc_output.csv
+sample_dlc_output.csvRodeos_vivox/
+Rodeos_vivox/
+RodeOS_vivox/
+*.whl
