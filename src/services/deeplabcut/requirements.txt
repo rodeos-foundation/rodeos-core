@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+numpy
+opencv-python
+PyYAML
+# Install DeepLabCut in the same environment using its official installation guide.
+# This starter targets DeepLabCut 3.x PyTorch projects.
