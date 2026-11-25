@@ -1,0 +1,40 @@
+project:
+  name: RodeOS Landmark Visibility Loop
+  output_dir: ./runs
+  capture_dir: ./runs/captures
+api:
+  host: 127.0.0.1
+  port: 8001
+deeplabcut:
+  config_path: C:/Users/zaukt/Projects/rodeos/RodeosTracking-SwarmoscopeTech-SwarmoscopeTech-2026-11-12/config.yaml
+  shuffle: 1
+  trainingsetindex: 0
+  scorer_name: null
+  pcutoff: 0.6
+  enabled: true
+landmarks:
+- bodypart: bodypart1
+  marker_component: LM_bodypart1
+  weight: 1.0
+- bodypart: bodypart2
+  marker_component: LM_bodypart2
+  weight: 1.0
+- bodypart: bodypart3
+  marker_component: LM_bodypart3
+  weight: 1.0
+- bodypart: objectA
+  marker_component: LM_objectA
+  weight: 1.0
+mcp:
+  url: http://127.0.0.1:8000/mcp
+  capture_toolset: SceneCaptureToolset.SceneCaptureToolset
+  capture_tool: CaptureEditorViewport
+  capture_arguments: {}
+  python_toolset: editor_toolset.toolsets.python_scripting.PythonScriptingTools
+  python_tool: ''
+  python_arguments: {}
+optimization:
+  max_step_cm: 0.25
+  deadband_px: 2.0
+  min_confidence: 0.6
+  min_views: 2

@@ -1,0 +1,56 @@
+SuperAnimalConversionTables: null
+Task: RodeosTracking-SwarmoscopeTech
+TrainingFraction:
+- 0.95
+alphavalue: 0.7
+batch_size: 8
+bodyparts:
+- bodypart1
+- bodypart2
+- bodypart3
+- objectA
+colormap: rainbow
+config_version: 0
+corner2move2:
+- 50
+- 50
+croppedtraining: null
+cropping: false
+date: Nov12
+default_augmenter: default
+default_net_type: resnet_50
+default_track_method: null
+detector_batch_size: 1
+detector_snapshotindex: -1
+dotsize: 12
+engine: pytorch
+identity: null
+individuals:
+- individual_1
+iteration: 0
+move2corner: true
+multianimalbodyparts: []
+multianimalproject: false
+numframes2pick: 20
+pcutoff: 0.6
+pose_config_path: null
+project_path: C:\Users\zaukt\Projects\rodeos\RodeosTracking-SwarmoscopeTech-SwarmoscopeTech-2026-11-12
+resnet: null
+scorer: SwarmoscopeTech
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+snapshotindex: -1
+start: 0.0
+stop: 1.0
+uniquebodyparts: []
+video_sets:
+  C:\Users\zaukt\Projects\rodeos\RodeosTracking-SwarmoscopeTech-SwarmoscopeTech-2026-11-12\videos\rat_capture.mp4:
+    crop: 0, 1280, 0, 720
+x1: 0
+x2: 640
+y1: 277
+y2: 624

@@ -1,0 +1,131 @@
+Mesh: /Game/FBX/Skeletal_Mesh/SM_Rat.SM_Rat
+
+RatArmature
+└── Rat-Controller
+    ├── HandIK_L
+    │   └── HandIK_L_end
+    ├── FootIK_L
+    │   └── FootIK_L_end
+    ├── FootIK_R
+    │   └── FootIK_R_end
+    ├── HandIK_R
+    │   └── HandIK_R_end
+    └── Hip-Controller
+        ├── Hip
+        │   └── Torso
+        │       └── Chest
+        │           ├── Neck
+        │           │   └── Head
+        │           │       ├── Jaw
+        │           │       │   └── Jaw_end
+        │           │       ├── Nose
+        │           │       │   ├── Nostril_L
+        │           │       │   │   └── Nostril_L_end
+        │           │       │   └── Nostril_R
+        │           │       │       └── Nostril_R_end
+        │           │       ├── Ear_L
+        │           │       │   └── Ear_L_end
+        │           │       ├── Ear_R
+        │           │       │   └── Ear_R_end
+        │           │       ├── EyeLidUp_L
+        │           │       │   └── EyeLidUp_L_end
+        │           │       ├── EyeLidUp_R
+        │           │       │   └── EyeLidUp_R_end
+        │           │       ├── EyeLidLower_L
+        │           │       │   └── EyeLidLower_L_end
+        │           │       └── EyeLidLower_R
+        │           │           └── EyeLidLower_R_end
+        │           ├── Clav_L
+        │           │   └── Shoulder_L
+        │           │       └── Forearm_L
+        │           │           └── Hand_L
+        │           │               ├── FingerMid1_L
+        │           │               │   └── FingerMid2_L
+        │           │               │       └── FingerMid3_L
+        │           │               │           └── FingerMid3_L_end
+        │           │               ├── FingerRing1_L
+        │           │               │   └── FingerRing2_L
+        │           │               │       └── FingerRing3_L
+        │           │               │           └── FingerRing3_L_end
+        │           │               ├── FingerPinky1_L
+        │           │               │   └── FingerPinky2_L
+        │           │               │       └── FingerPinky3_L
+        │           │               │           └── FingerPinky3_L_end
+        │           │               ├── FingerPoint1_L
+        │           │               │   └── FingerPoint2_L
+        │           │               │       └── FingerPoint3_L
+        │           │               │           └── FingerPoint3_L_end
+        │           │               └── FingerThumb1_L
+        │           │                   └── FingerThumb2_L
+        │           │                       └── FingerThumb3_L
+        │           │                           └── FingerThumb3_L_end
+        │           └── Clav_R
+        │               └── Shoulder_R
+        │                   └── Forearm_R
+        │                       └── Hand_R
+        │                           ├── FingerMid1_R
+        │                           │   └── FingerMid2_R
+        │                           │       └── FingerMid3_R
+        │                           │           └── FingerMid3_R_end
+        │                           ├── FingerRing1_R
+        │                           │   └── FingerRing2_R
+        │                           │       └── FingerRing3_R
+        │                           │           └── FingerRing3_R_end
+        │                           ├── FingerPinky1_R
+        │                           │   └── FingerPinky2_R
+        │                           │       └── FingerPinky3_R
+        │                           │           └── FingerPinky3_R_end
+        │                           ├── FingerPoint1_R
+        │                           │   └── FingerPoint2_R
+        │                           │       └── FingerPoint3_R
+        │                           │           └── FingerPoint3_R_end
+        │                           └── FingerThumb1_R
+        │                               └── FingerThumb2_R
+        │                                   └── FingerThumb3_R
+        │                                       └── FingerThumb3_R_end
+        ├── Hip_L
+        │   └── Thigh_L
+        │       └── Shin_L
+        │           └── Foot_L
+        │               ├── ToeMid1_L
+        │               │   └── ToeMid2_L
+        │               │       └── ToeMid2_L_end
+        │               ├── ToeRing1_L
+        │               │   └── ToeRing2_L
+        │               │       └── ToeRing2_L_end
+        │               ├── ToePinky1_L
+        │               │   └── ToePinky2_L
+        │               │       └── ToePinky2_L_end
+        │               ├── ToePoint1_L
+        │               │   └── ToePoint2_L
+        │               │       └── ToePoint2_L_end
+        │               └── ToeThumb1_L
+        │                   └── ToeThumb2_L
+        │                       └── ToeThumb2_L_end
+        ├── Hip_R
+        │   └── Thigh_R
+        │       └── Shin_R
+        │           └── Foot_R
+        │               ├── ToeMid1_R
+        │               │   └── ToeMid2_R
+        │               │       └── ToeMid2_R_end
+        │               ├── ToeRing1_R
+        │               │   └── ToeRing2_R
+        │               │       └── ToeRing2_R_end
+        │               ├── ToePinky1_R
+        │               │   └── ToePinky2_R
+        │               │       └── ToePinky2_R_end
+        │               ├── ToePoint1_R
+        │               │   └── ToePoint2_R
+        │               │       └── ToePoint2_R_end
+        │               └── ToeThumb1_R
+        │                   └── ToeThumb2_R
+        │                       └── ToeThumb2_R_end
+        └── Tail
+            └── Tail1
+                └── Tail2
+                    └── Tail3
+                        └── Tail4
+                            └── Tail5
+                                └── Tail6
+                                    └── Tail6_end
