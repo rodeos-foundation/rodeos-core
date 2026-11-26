@@ -13,3 +13,5 @@ RodeOS_vivox/
 tools/AMBER-pipeline/
 *.pt
 RodeosTracking-SwarmoscopeTech-SwarmoscopeTech-2026-11-12/dlc-models-pytorch/
+**/image_predictions_*.csv
+**/image_predictions_*.h5
